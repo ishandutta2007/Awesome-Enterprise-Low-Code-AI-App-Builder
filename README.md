@@ -73,43 +73,43 @@ Whether you are evaluating enterprise-grade commercial platforms (*Microsoft Pow
 
 ## 🔓 Open-Source GitHub Projects 🌐
 
-*Open-source low-code AI app builders and workflow engines, sorted by **GitHub Stars Count (Descending)**:* 🌟
+*Open-source low-code AI app builders and workflow engines, sorted by **GitHub_Stars_Count (Descending)**:* 🌟
 
 - **[n8n](https://github.n8n.io/n8n/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) 🔄  
-  **Workflow automation with native AI capabilities**, Sustainable Use License. **50K+ GitHub stars** — Visual workflow builder with 400+ integrations, native LangChain nodes, LLM orchestration, and self-hosted privacy control. 🤖
+  **Workflow automation with native AI capabilities**, Sustainable Use License. **50K+ GitHub_Stars** — Visual workflow builder with 400+ integrations, native LangChain nodes, LLM orchestration, and self-hosted privacy control. 🤖
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🎨  
-  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **45K+ GitHub stars** — Visual LLM workflow builder combining prompt engineering, RAG pipelines, agent nodes, and model management. 🧪
+  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **45K+ GitHub_Stars** — Visual LLM workflow builder combining prompt engineering, RAG pipelines, agent nodes, and model management. 🧪
 
 - **[Appsmith](https://github.com/appsmithorg/appsmith)** [![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) 🛠️  
-  **The leading open-source low-code platform for internal tools**, Apache-2.0 licensed. **35K+ GitHub stars** — Build admin panels, dashboards, and CRUD apps with 45+ UI widgets and direct SQL/REST connectors. 📦
+  **The leading open-source low-code platform for internal tools**, Apache-2.0 licensed. **35K+ GitHub_Stars** — Build admin panels, dashboards, and CRUD apps with 45+ UI widgets and direct SQL/REST connectors. 📦
 
 - **[ToolJet](https://github.com/ToolJet/ToolJet)** [![Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers) 🧰  
-  **Open-source low-code internal tool framework**, AGPL-3.0 licensed. **30K+ GitHub stars** — Natural language AI app generator, 60+ data connectors, customizable JS widgets, and enterprise RBAC. 🔐
+  **Open-source low-code internal tool framework**, AGPL-3.0 licensed. **30K+ GitHub_Stars** — Natural language AI app generator, 60+ data connectors, customizable JS widgets, and enterprise RBAC. 🔐
 
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🎯  
-  **Drag-and-drop LLM app builder**, Apache-2.0 licensed. **28K+ GitHub stars** — UI node-based builder for LangChain and LlamaIndex agents, memory components, and vector store connectors. 💡
+  **Drag-and-drop LLM app builder**, Apache-2.0 licensed. **28K+ GitHub_Stars** — UI node-based builder for LangChain and LlamaIndex agents, memory components, and vector store connectors. 💡
 
 - **[Budibase](https://github.com/Budibase/budibase)** [![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) 🏗️  
-  **Open-source low-code platform for internal apps**, GPL-3.0 licensed. **22K+ GitHub stars** — Rapid CRUD application development, built-in database, automation workflows, and custom portal creation. ⚡
+  **Open-source low-code platform for internal apps**, GPL-3.0 licensed. **22K+ GitHub_Stars** — Rapid CRUD application development, built-in database, automation workflows, and custom portal creation. ⚡
 
 - **[Refine](https://github.com/refinedev/refine)** [![Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers) ⚛️  
-  **React-based headless framework for internal tools**, MIT licensed. **21K+ GitHub stars** — Enterprise React framework for building data-heavy applications, admin panels, and enterprise dashboards with complete UI flexibility. 🧱
+  **React-based headless framework for internal tools**, MIT licensed. **21K+ GitHub_Stars** — Enterprise React framework for building data-heavy applications, admin panels, and enterprise dashboards with complete UI flexibility. 🧱
 
 - **[Pipedream](https://github.com/PipedreamHQ/pipedream)** [![Stars](https://img.shields.io/github/stars/PipedreamHQ/pipedream?style=social&color=white)](https://github.com/PipedreamHQ/pipedream/stargazers) 🔌  
-  **Integration platform for developers**, Apache-2.0 licensed. **9K+ GitHub stars** — Connect APIs and write serverless code steps (Node.js, Python, Go) with 2,000+ pre-built integrations. 🚀
+  **Integration platform for developers**, Apache-2.0 licensed. **9K+ GitHub_Stars** — Connect APIs and write serverless code steps (Node.js, Python, Go) with 2,000+ pre-built integrations. 🚀
 
 - **[Cortex](https://github.com/cortexlabs/cortex)** [![Stars](https://img.shields.io/github/stars/cortexlabs/cortex?style=social&color=white)](https://github.com/cortexlabs/cortex/stargazers) 🧠  
-  **Machine learning deployment platform**, Apache-2.0 licensed. **8K+ GitHub stars** — Production-grade platform for deploying ML models, LLMs, and inference pipelines as autoscaling APIs. ☁️
+  **Machine learning deployment platform**, Apache-2.0 licensed. **8K+ GitHub_Stars** — Production-grade platform for deploying ML models, LLMs, and inference pipelines as autoscaling APIs. ☁️
 
 - **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers) 🔧  
-  **Open-source low-code development platform**, AGPL-3.0 licensed. **6K+ GitHub stars** — Visual UI designer for internal software, supporting plugin extensibility and self-hosted enterprise deployment. ⚙️
+  **Open-source low-code development platform**, AGPL-3.0 licensed. **6K+ GitHub_Stars** — Visual UI designer for internal software, supporting plugin extensibility and self-hosted enterprise deployment. ⚙️
 
 - **[Open-WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) 🖥️  
-  **User-friendly WebUI for LLMs & AI Agents**, MIT licensed. **65K+ GitHub stars** — Self-hosted ChatGPT/Claude style UI supporting Ollama, OpenAI API, RAG evaluation, and agentic integrations. 💬
+  **User-friendly WebUI for LLMs & AI Agents**, MIT licensed. **65K+ GitHub_Stars** — Self-hosted ChatGPT/Claude style UI supporting Ollama, OpenAI API, RAG evaluation, and agentic integrations. 💬
 
 - **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers) 🌊  
-  **Visual framework for building multi-agent AI applications**, MIT licensed. **40K+ GitHub stars** — Python-native visual canvas for designing AI flows, agents, and RAG architecture. 🔮
+  **Visual framework for building multi-agent AI applications**, MIT licensed. **40K+ GitHub_Stars** — Python-native visual canvas for designing AI flows, agents, and RAG architecture. 🔮
 
 ---
 
@@ -118,7 +118,7 @@ Whether you are evaluating enterprise-grade commercial platforms (*Microsoft Pow
 Contributions are greatly appreciated! Follow these simple steps to submit new enterprise low-code AI app builders or open-source visual software:
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Add/edit** entries in `README.md` keeping the structure, table formatting, and star badges intact.
+2. 📝 **Add/edit** entries in `README.md` keeping the structure, table formatting, and Stars_Badges intact.
 3. 🔗 Include project title, official site/repo link, exact pricing, license, and brief overview.
 4. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
